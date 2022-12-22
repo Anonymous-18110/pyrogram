@@ -1,6 +1,6 @@
 pyaes==1.6.1
 pysocks==1.7.1
-
+git+https://github.com/Anonymous-18110/cinemagoer
 Heroku3
 pymongo[srv]==3.11.4
 motor==2.4.0
